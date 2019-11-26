@@ -1,0 +1,3 @@
+1、git 本地设置  user.name/user.email，可设置全局、仓库 其信息保存在.gitconfig文件中  可随时更改
+2、github 注册的account和email，在github中具有唯一性
+3、

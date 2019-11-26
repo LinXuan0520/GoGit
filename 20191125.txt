@@ -1,0 +1,11 @@
+1、Shadowsocks(简称SS)基于Socks5代理方式的加密传输协议
+   ShadowsocksR(简称SSR)，在SS的基础上增加数据混淆方式
+   Virtual Private Network(简称VPN)，虚拟专用网络远程访问技术
+
+   区别（个人理解）：SS/SSR，客户端——代理服务器，直接传输需要访问的地址，代理服务器对其进行数据混淆（流量地址等混淆），然后代理服务器——目标服务器，获得相应的反馈，然后代理服务器——客户端。
+		     VPN，客户端讲访问内容，加密，传输给代理服务器；代理服务器解密，然后访问目标服务器，然后再加密传输回客户端。（此处存疑)
+2、Homebrew:The missing package manager for macOS,website"https://brew.sh"
+
+   brew search
+   brew install 
+   brew uninstall
