@@ -1,3 +1,5 @@
 1、git 本地设置  user.name/user.email，可设置全局、仓库 其信息保存在.gitconfig文件中  可随时更改
 2、github 注册的account和email，在github中具有唯一性
-3、
+3、github与local通过SSH关联时，需要将local生成的公钥添加到对应github中，需要注意的是，生成公钥时，其末尾以邮箱作为标记，当公钥末尾的标记与github的注册邮箱一致时，则可认为local与github是互通的，可直接push。（当不一致时的情况还未操作）
+4、同一个公钥只能添加到一个github账号中
+5、Collaborator，当账号A的reo成功邀请到账号B作为Collaborate时，B则可在其关联的local进行push。
