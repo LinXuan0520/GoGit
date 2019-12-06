@@ -1,0 +1,5 @@
+1、git remote 针对远程仓库的操作命令
+   git remote -v 显示远程仓库的详细信息
+   add 新增一个远程  <url>
+   rename
+   remove,rm
