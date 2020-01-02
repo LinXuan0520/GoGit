@@ -17,7 +17,7 @@
 8、vim 到行首:按下“0”  到行尾：按下“$”
 9、git config
    --local 本地仓库
-   --gloabal 用户级别
+   --global 用户级别
    --system  系统
    --add key value  添加
    --get key value  获取

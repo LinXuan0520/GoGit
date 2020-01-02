@@ -1,0 +1,6 @@
+1、git rev-parse --git-dir   显示当前仓库.git的位置
+   git rev-parse --show-toplevel 显示工作区的目录
+   git rev-parse --show-prefix 显示当前位置相对于工作区目录的相对路径
+2、git commit --amend 修改上一次提交，将两次提交合并为一次提交
+   git commit --allow-empty 允许一次空提交
+   git commit --reset-author 重置git用户   
